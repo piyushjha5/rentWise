@@ -1,6 +1,7 @@
 # RentWise
-
 RentWise is a full-stack web application designed to help users find and manage PG (Paying Guest) accommodations. The application features user authentication, dynamic search and filtering, interactive front-end interfaces, and CRUD operations for PG listings.
+
+Visit the website -> http://rentwise.42web.io/?i=1
 
 ## Features
 - **User Authentication**: Designed and implemented secure login and registration system.
