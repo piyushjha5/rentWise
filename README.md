@@ -39,8 +39,8 @@ RentWise is a full-stack web application designed to help users find and manage 
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
--Fork the repository.
--Create a new branch (git checkout -b feature/YourFeature).
--Commit your changes (git commit -m 'Add YourFeature').
--Push to the branch (git push origin feature/YourFeature).
--Open a pull request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature/YourFeature).
+- Commit your changes (git commit -m 'Add YourFeature').
+- Push to the branch (git push origin feature/YourFeature).
+- Open a pull request.
