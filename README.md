@@ -33,9 +33,9 @@ RentWise is a full-stack web application designed to help users find and manage 
    Open index.php in your web browser.
 
 ## Usage
-  -Login/Register: Create an account or log in to access the PG listings.
-  -Search and Filter: Use the search and filter options to find PGs based on your preferences.
-  -Manage PGs: Add, update, or delete PG listings as an admin.
+  - Login/Register: Create an account or log in to access the PG listings.
+  - Search and Filter: Use the search and filter options to find PGs based on your preferences.
+  - Manage PGs: Add, update, or delete PG listings as an admin.
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
