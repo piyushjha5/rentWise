@@ -22,10 +22,10 @@ Visit the website -> http://rentwise.42web.io/?i=1
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/PGLIFE.git
+   git clone https://github.com/yourusername/rentWise.git
 2. Navigate to the project directory:
    ```bash
-   cd PGLIFE
+   cd rentWise
 3. Set up the database:
    Import the database.sql file into your MySQL server.
    Update the database configuration in the config.php file with your database credentials.
